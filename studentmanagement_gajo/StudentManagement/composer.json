@@ -1,0 +1,16 @@
+{
+    "name": "gajo/student-management",
+    "description": "basic student",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gajo\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gajo"
+        }
+    ],
+    "require": {}
+}
